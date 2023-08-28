@@ -10,5 +10,5 @@ labels: task
 - Link user story (-ies) to this task here
 
 # Subtasks
-- [] List subtasks here.
-- [] Make use of checkbox for easy progress tracking.
+- [ ] List subtasks here.
+- [ ] Make use of checkbox for easy progress tracking.
